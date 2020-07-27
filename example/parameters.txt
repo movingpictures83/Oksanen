@@ -1,0 +1,3 @@
+otufile	plugins/Oksanen/example/asv_abund.transpose.csv
+mapping	plugins/Oksanen/example/asv_map.csv
+tree	plugins/Oksanen/example/asv_tax.csv

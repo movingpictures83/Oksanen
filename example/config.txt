@@ -1,0 +1,2 @@
+Prefix plugins/Oksanen/example
+Plugin Oksanen inputfile parameters.txt outputfile output.transformed.csv
